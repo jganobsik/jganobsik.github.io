@@ -1,11 +1,11 @@
 # Site settings
 author: Joe Ganobsik
-title: DevOps to Dev
+title: Joe Knows
 header-img: img/home-bg.png
 email: jganobsik@gmail.com
 copyright_name: Joe Ganobsik
 description: > # this means to ignore newlines until "baseurl:"
-  My journey into Software Engineering as a former Systems Administrator
+  Covering my journey into software engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jganobsik
